@@ -264,4 +264,10 @@ skinparam storage {
   font_style()
 }
 
+skinparam activityDiamond {
+  basic_style()
+  font_style()
+  arrow_style()
+}
+
 @enduml
